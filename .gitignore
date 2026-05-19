@@ -2,3 +2,5 @@
 /.data
 /.handlers
 /.venv
+/.env
+/__pycache__
